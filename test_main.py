@@ -1,5 +1,5 @@
 import unittest
-from main import suma
+from main import suma, resta
 
 class TestSuma(unittest.TestCase):
     def test_suma_positiva(self):
